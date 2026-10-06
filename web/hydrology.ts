@@ -1,5 +1,6 @@
 export const SOURCE = "https://meteorologia.gov.py/nivel-rio/indexconvencional.php";
-export type Reading = {station:string;name:string;river:string;date:string;level:number;variation:number|null;source:string;fetched_at?:string};
+export type HistoricalExtreme={level:number;date:string};
+export type Reading = {station:string;name:string;river:string;date:string;level:number;variation:number|null;source:string;fetched_at?:string;minimum?:HistoricalExtreme|null;maximum?:HistoricalExtreme|null};
 export const stationKey=(s:string)=>s.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
 const clean=(s:string)=>s.replace(/<[^>]*>/g," ").replace(/&nbsp;|&#160;/g," ").replace(/&amp;/g,"&").replace(/&minus;/g,"-").replace(/\s+/g," ").trim();
 export function dateISO(s:string){const m=s.match(/(\d{2})[-/](\d{2})[-/](\d{4})/);if(!m)return null;const v=`${m[3]}-${m[2]}-${m[1]}`;return new Date(v+"T12:00:00Z").toISOString().slice(0,10)===v?v:null;}
@@ -17,11 +18,14 @@ export function parseDMH(html:string):Reading[]{
     const vm=c[3].replace(",",".").match(/[-+]?\d+(?:\.\d+)?/);const raw=vm?Number(vm[0]):null;
     const variation=raw===null?null:/\bcm\b/i.test(c[3])?raw: /\bm\b/i.test(c[3])?raw*100:raw;
     const link=row[1].match(/href=["']([^"']*vermas(?:_convencional)?\.php[^"']*)/i)?.[1];
-    found.push({station:stationKey(c[0]),name:c[0],river,date,level,variation,source:link?new URL(link.replace(/&amp;/g,"&"),SOURCE).href:SOURCE});
+    found.push({station:stationKey(c[0]),name:c[0],river,date,level,variation,minimum:parseExtreme(c[4]),maximum:parseExtreme(c[5]),source:link?new URL(link.replace(/&amp;/g,"&"),SOURCE).href:SOURCE});
   }
   if(found.length<20||found.some(x=>x.river==="Río sin identificar"))throw new Error("La estructura de la DMH cambió o la respuesta está incompleta. Se conserva la última consulta válida.");
   if(new Set(found.map(x=>x.station)).size!==found.length)throw new Error("La fuente contiene estaciones duplicadas.");
   return found;
+}
+export function parseExtreme(value?:string):HistoricalExtreme|null{
+  if(!value)return null;const date=dateISO(value),match=value.replace(',','.').match(/^\s*([-+]?\d+(?:\.\d+)?)\s*m\b/i);return date&&match?{date,level:Number(match[1])}:null;
 }
 export function parseHistory(html:string,station:Reading):Reading[]{
   const out:Reading[]=[];
