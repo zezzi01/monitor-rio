@@ -2,6 +2,7 @@ import {useEffect,useMemo,useState} from 'react';
 import {ArrowUp,ArrowDown,Minus,ArrowRight,CalendarDays,Waves,ChartNoAxesCombined,ClipboardCheck} from 'lucide-react';
 import {todayPY,type Reading} from './hydrology';
 import {analyzeStation,formatLevel as fmt,formatDate as date,sign,type Analysis,type NetworkHistory} from './analytics';
+import UsageNotice from './UsageNotice';
 export function Delta({value,unit='m'}:{value:number|null|undefined;unit?:'m'|'cm'}){
  if(value===null||value===undefined)return <span className="metric-missing">Sin base</span>;
  const d=sign(value),v=unit==='cm'?Math.round(Math.abs(value)):Math.abs(value)<1?Math.round(Math.abs(value)*100):fmt(Math.abs(value));
@@ -28,6 +29,7 @@ export default function Operations({rows,updatedAt,onOpenStation,onShowRiver}:Pr
  function renderBase(a:Analysis,key:'daily'|'week'|'month'){return key==='daily'?<small>{day===a.reading.date?'Variación publicada por la DMH':a.previous?`Frente al ${date(a.previous.date)}`:'Sin registro anterior'}</small>:<small>Base: {date(a[key]!.base.date)} · intervalo real {a[key]!.span} días</small>}
  return <section className="operations">
  <div className="page-heading"><div><span className="eyebrow">LECTURA DE LA RED</span><h2>Centro operativo</h2><p>Qué cambió, dónde se concentra y qué conviene revisar.</p></div><div className="date-controls"><label>Fecha de observación<input aria-label="Fecha del centro operativo" type="date" value={day} min={dates.at(-1)} max={todayPY()} onInput={e=>e.currentTarget.value&&setDay(e.currentTarget.value)}/></label><label>Fechas con registros<select aria-label="Fechas disponibles del centro operativo" value={dates.includes(day)?day:''} onChange={e=>setDay(e.target.value)}>{!dates.includes(day)&&<option value="">Sin registros de esta fecha</option>}{dates.map(d=><option key={d} value={d}>{date(d)}</option>)}</select></label></div></div>
+ <UsageNotice/>
  {error&&<div role="alert" className="alert">{error} Las comparaciones requieren las series guardadas.</div>}
  {busy&&<div className="analysis-loading" role="status">Cargando las observaciones de la red…</div>}
  <div className="operational-kpis"><article className="reading-summary"><span className="card-kicker">SÍNTESIS DE LA FECHA · {date(day)}</span><h3>{dominant}</h3><p>{current.length} de {all.length} estaciones tienen lectura de esta fecha.{mean!==null&&<> La variación media publicada o calculada es <b>{mean>0?'+':''}{mean} cm</b> en {known.length} estaciones con variación disponible.</>}</p></article>{[[up.length,'Suben','up'],[down.length,'Bajan','down'],[flat.length,'Estables','flat']].map(([value,label,kind])=><article className={`count-card ${kind}`} key={String(label)}><span className="card-kicker">{label}</span><strong>{value}</strong><small>De {current.length} lecturas de la fecha</small></article>)}</div>

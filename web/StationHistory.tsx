@@ -4,6 +4,7 @@ import {ResponsiveContainer,LineChart,Line,XAxis,YAxis,Tooltip,CartesianGrid,Ref
 import {type Reading} from './hydrology';
 import {formatLevel as fmt,formatDate as date,comparison,pointsFor,shiftDate,positionInReference,sign,dayDistance,type History} from './analytics';
 import {Delta,ReferenceRange} from './Operations';
+import UsageNotice from './UsageNotice';
 type Props={rows:Reading[];selected:string;onSelect:(key:string)=>void;updatedAt?:string;anchorDate?:string};
 export default function StationHistory({rows,selected,onSelect,updatedAt,anchorDate}:Props){
  const [history,setHistory]=useState<History|null>(null),[busy,setBusy]=useState(true),[error,setError]=useState(''),[range,setRange]=useState(30),[from,setFrom]=useState(''),[until,setUntil]=useState(''),[references,setReferences]=useState(false);
@@ -21,6 +22,7 @@ export default function StationHistory({rows,selected,onSelect,updatedAt,anchorD
  if(!reading)return <div className="loading">Elegí una estación para consultar su historial.</div>;
  const previous=last?available.at(-2):undefined,daily=last?.date===reading.date?reading.variation:previous&&last?Math.round((last.level-previous.level)*100):null;
  return <section className="history expanded-history"><div className="page-heading"><div><span className="eyebrow">EXPLORACIÓN POR ESTACIÓN</span><h2>Análisis / Historial</h2><p>Leé la evolución del nivel y compará períodos con sus fechas reales.</p></div><select aria-label="Seleccionar estación para historial" value={selected} onChange={e=>onSelect(e.target.value)}>{rows.map(r=><option key={r.station} value={r.station}>{r.name} · {r.river}</option>)}</select></div>
+ <UsageNotice/>
  {busy?<div className="loading" role="status">Recuperando observaciones de la DMH…</div>:error?<div className="alert" role="alert">{error}</div>:<>
  {history?.warning&&<div className="alert">{history.warning}</div>}
  {anchorDate&&last?.date!==anchorDate&&<div className="alert">No hay lectura del {date(anchorDate)}. El análisis termina en la última observación anterior: {last?date(last.date):'sin registro'}.</div>}
