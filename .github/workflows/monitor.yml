@@ -40,7 +40,20 @@ jobs:
           git add public/data
           if ! git diff --cached --quiet; then
             git commit -m 'Actualizar lecturas de la DMH'
-            git push
+            for attempt in 1 2 3; do
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              echo "main avanzó durante la actualización; reintentando sin sobrescribir cambios remotos ($attempt/3)"
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort
+                echo "No se pudo integrar main automáticamente. Se conserva el remoto sin cambios."
+                exit 1
+              fi
+            done
+            echo "main volvió a avanzar después de tres intentos. Se conserva el remoto sin cambios."
+            exit 1
           fi
       - run: npm test
       - run: npm run build
