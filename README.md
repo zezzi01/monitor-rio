@@ -5,6 +5,7 @@ Web inspirada en el Observatorio Hidrológico del Paraguay de GEOlab/AEP: https:
 ## Qué muestra
 
 - Mapa Mapbox con todas las estaciones convencionales publicadas por la DMH.
+- Capas meteorológicas opcionales GOES-East Banda 13 infrarroja e IMERG de precipitación estimada, servidas por NASA EOSDIS GIBS / NOAA, con control de opacidad y acceso a la animación de CPTEC/INPE DSAT.
 - Niveles, variaciones publicadas y fecha real de cada lectura.
 - Centro operativo por fecha: síntesis, cobertura, cambios destacados, persistencia, matriz por río y datos para revisar.
 - Comparaciones a 7 y 30 días con la fecha real de la base. Sin interpolar días ausentes.
@@ -25,6 +26,8 @@ Fuente: https://meteorologia.gov.py/nivel-rio/indexconvencional.php . El proceso
 Los archivos `public/data/latest.json` y `public/data/history/*.json` permanecen en el repositorio. Si falla la tabla principal, se conserva la última información válida y se publica un aviso. La web revisa los archivos cada cinco minutos; Revisar datos lee los archivos publicados, no consulta directamente la DMH. Hora de Paraguay: America/Asuncion.
 
 Los marcadores son localidades aproximadas; no son coordenadas relevadas de las escalas. Los niveles no equivalen a profundidad ni calado disponible. No se emiten pronósticos ni alertas oficiales.
+
+La capa infrarroja muestra temperatura de brillo y estructura de nubes en el canal de 10,3 µm. Es una señal meteorológica complementaria para reconocer nubosidad profunda y actividad convectiva, incluso de noche. La capa GPM IMERG muestra una estimación satelital de la tasa de precipitación media en 30 minutos; se publica con demora y puede diferir de pluviómetros y radares. Ninguna permite anticipar por sí sola el nivel futuro del río. Fuente cartográfica: NASA EOSDIS GIBS / NOAA GOES-East y GPM IMERG. Referencia regional: CPTEC/INPE DSAT.
 
 ## Criterios del análisis
 
