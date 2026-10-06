@@ -1,0 +1,57 @@
+name: Actualizar DMH y publicar monitor
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: monitor-rio-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Consultar todas las estaciones de la DMH
+        id: scrape
+        continue-on-error: true
+        run: npm run scrape
+      - name: Guardar lecturas y estado de actualización
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualizar lecturas de la DMH'
+            git push
+          fi
+      - run: npm test
+      - run: npm run build
+        env:
+          VITE_MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Publicar web
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Informar fallo de la fuente
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo 'La DMH no pudo actualizarse. Se publicó el último dato válido con aviso.'
+          exit 1
