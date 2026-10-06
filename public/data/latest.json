@@ -7,8 +7,16 @@
       "date": "2026-10-05",
       "level": 1.15,
       "variation": 5,
+      "minimum": {
+        "date": "2024-10-16",
+        "level": -0.68
+      },
+      "maximum": {
+        "date": "2023-07-18",
+        "level": 4.24
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082001",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "puerto-murtinho-brasil",
@@ -17,8 +25,16 @@
       "date": "2026-10-05",
       "level": 2.32,
       "variation": 1,
+      "minimum": {
+        "date": "2024-10-24",
+        "level": 0.53
+      },
+      "maximum": {
+        "date": "1982-06-26",
+        "level": 9.75
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082002",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "caceres-brasil",
@@ -27,8 +43,16 @@
       "date": "2026-10-05",
       "level": 0.78,
       "variation": 4,
+      "minimum": {
+        "date": "2021-09-27",
+        "level": 0.26
+      },
+      "maximum": {
+        "date": "2023-03-29",
+        "level": 5.47
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082003",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "isla-margarita",
@@ -37,8 +61,16 @@
       "date": "2026-10-06",
       "level": 2.32,
       "variation": 1,
+      "minimum": {
+        "date": "2024-10-23",
+        "level": 0.54
+      },
+      "maximum": {
+        "date": "2018-03-12",
+        "level": 7.7
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086009",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "fuerte-olimpo",
@@ -47,8 +79,16 @@
       "date": "2026-10-06",
       "level": 2.99,
       "variation": 5,
+      "minimum": {
+        "date": "1971-10-26",
+        "level": -1.58
+      },
+      "maximum": {
+        "date": "1988-06-09",
+        "level": 9.6
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086010",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "bahia-negra",
@@ -57,8 +97,16 @@
       "date": "2026-10-06",
       "level": 2.81,
       "variation": 2,
+      "minimum": {
+        "date": "1971-09-26",
+        "level": -1.32
+      },
+      "maximum": {
+        "date": "1982-06-13",
+        "level": 6.95
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086033",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "vallemi",
@@ -67,8 +115,16 @@
       "date": "2026-10-06",
       "level": 2.46,
       "variation": 18,
+      "minimum": {
+        "date": "1971-09-24",
+        "level": 0.42
+      },
+      "maximum": {
+        "date": "1982-06-24",
+        "level": 8.56
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086088",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "concepcion",
@@ -77,8 +133,16 @@
       "date": "2026-10-06",
       "level": 1.82,
       "variation": 2,
+      "minimum": {
+        "date": "1968-01-07",
+        "level": 0.34
+      },
+      "maximum": {
+        "date": "1992-05-20",
+        "level": 8.66
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086134",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "rosario",
@@ -87,8 +151,16 @@
       "date": "2026-10-06",
       "level": 1.26,
       "variation": 10,
+      "minimum": {
+        "date": "2024-10-30",
+        "level": -0.62
+      },
+      "maximum": {
+        "date": "1983-06-03",
+        "level": 8.03
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086183",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "puerto-antequera",
@@ -97,8 +169,16 @@
       "date": "2026-10-06",
       "level": 1.44,
       "variation": 8,
+      "minimum": {
+        "date": "2024-10-31",
+        "level": -0.49
+      },
+      "maximum": {
+        "date": "2023-03-17",
+        "level": 6.02
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086184",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "villeta",
@@ -107,8 +187,16 @@
       "date": "2026-10-06",
       "level": 1.02,
       "variation": 5,
+      "minimum": {
+        "date": "2024-11-01",
+        "level": -1.21
+      },
+      "maximum": {
+        "date": "1983-05-30",
+        "level": 8.94
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086211",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "asuncion",
@@ -117,8 +205,16 @@
       "date": "2026-10-06",
       "level": 0.65,
       "variation": 7,
+      "minimum": {
+        "date": "2024-11-02",
+        "level": -1.61
+      },
+      "maximum": {
+        "date": "1983-05-29",
+        "level": 9.01
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086218",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "ita-enramada",
@@ -127,8 +223,16 @@
       "date": "2026-10-06",
       "level": 1.1,
       "variation": 4,
+      "minimum": {
+        "date": "2024-11-01",
+        "level": -1.04
+      },
+      "maximum": {
+        "date": "2023-03-26",
+        "level": 5.8
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086219",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "humaita",
@@ -137,8 +241,16 @@
       "date": "2026-10-06",
       "level": 3.37,
       "variation": 10,
+      "minimum": {
+        "date": "2021-10-02",
+        "level": -0.25
+      },
+      "maximum": {
+        "date": "2019-06-07",
+        "level": 7.74
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086252",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "alberdi",
@@ -147,8 +259,16 @@
       "date": "2026-10-06",
       "level": 2.48,
       "variation": 3,
+      "minimum": {
+        "date": "2024-11-08",
+        "level": -0.77
+      },
+      "maximum": {
+        "date": "1992-06-10",
+        "level": 10.14
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086254",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "pilar",
@@ -157,8 +277,16 @@
       "date": "2026-10-06",
       "level": 3.28,
       "variation": 11,
+      "minimum": {
+        "date": "1944-10-06",
+        "level": -0.49
+      },
+      "maximum": {
+        "date": "1983-05-29",
+        "level": 10.05
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086255",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "puerto-tigre",
@@ -167,8 +295,16 @@
       "date": "2026-10-06",
       "level": 6.88,
       "variation": -4,
+      "minimum": {
+        "date": "2026-04-09",
+        "level": 2.01
+      },
+      "maximum": {
+        "date": "2023-11-29",
+        "level": 7.81
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086209",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "salto-del-guaira",
@@ -177,8 +313,16 @@
       "date": "2026-10-06",
       "level": 6.94,
       "variation": -7,
+      "minimum": {
+        "date": "2020-12-13",
+        "level": 3.16
+      },
+      "maximum": {
+        "date": "2026-05-09",
+        "level": 10.03
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086210",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "ciudad-del-este",
@@ -187,8 +331,16 @@
       "date": "2026-10-05",
       "level": 19.76,
       "variation": 33,
+      "minimum": {
+        "date": "2021-07-05",
+        "level": 2.71
+      },
+      "maximum": {
+        "date": "2023-10-31",
+        "level": 30.4
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086248",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "cerrito",
@@ -197,8 +349,16 @@
       "date": "2026-10-06",
       "level": 3.5,
       "variation": 15,
+      "minimum": {
+        "date": "2021-12-29",
+        "level": -0.4
+      },
+      "maximum": {
+        "date": "2023-11-08",
+        "level": 6.7
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086253",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "ita-piru",
@@ -207,8 +367,16 @@
       "date": "2026-10-06",
       "level": 5.7,
       "variation": 13,
+      "minimum": {
+        "date": "2022-02-04",
+        "level": 0.02
+      },
+      "maximum": {
+        "date": "2021-05-08",
+        "level": 9.94
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086257",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "paso-de-patria",
@@ -217,8 +385,16 @@
       "date": "2026-10-06",
       "level": 4.6,
       "variation": 10,
+      "minimum": {
+        "date": "2022-01-13",
+        "level": 0.01
+      },
+      "maximum": {
+        "date": "2025-09-20",
+        "level": 9.83
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086258",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "ayolas",
@@ -227,8 +403,16 @@
       "date": "2026-10-06",
       "level": 3.8,
       "variation": 13,
+      "minimum": {
+        "date": "2007-09-13",
+        "level": 0
+      },
+      "maximum": {
+        "date": "1997-02-07",
+        "level": 6.65
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086261",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "panchito-lopez",
@@ -237,8 +421,16 @@
       "date": "2026-10-06",
       "level": 4.1,
       "variation": 20,
+      "minimum": {
+        "date": "2020-10-23",
+        "level": 0.1
+      },
+      "maximum": {
+        "date": "2023-11-07",
+        "level": 7.04
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086263",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "coratei",
@@ -247,8 +439,16 @@
       "date": "2026-10-06",
       "level": 3.62,
       "variation": 22,
+      "minimum": {
+        "date": "2022-02-22",
+        "level": -0.29
+      },
+      "maximum": {
+        "date": "2023-11-07",
+        "level": 6.35
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086264",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "ita-cora",
@@ -257,8 +457,16 @@
       "date": "2026-10-06",
       "level": 5,
       "variation": 10,
+      "minimum": {
+        "date": "2021-05-24",
+        "level": 0.6
+      },
+      "maximum": {
+        "date": "2023-11-09",
+        "level": 8.21
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086288",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "san-cosme-y-san-damian",
@@ -267,8 +475,16 @@
       "date": "2026-10-06",
       "level": 9.94,
       "variation": 4,
+      "minimum": {
+        "date": "2025-03-28",
+        "level": 0.75
+      },
+      "maximum": {
+        "date": "2023-11-09",
+        "level": 10.35
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086295",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "encarnacion",
@@ -277,8 +493,16 @@
       "date": "2026-10-06",
       "level": 10.12,
       "variation": -2,
+      "minimum": {
+        "date": "2026-04-11",
+        "level": 3.1
+      },
+      "maximum": {
+        "date": "2023-12-31",
+        "level": 12
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086297",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "pozo-hondo",
@@ -287,8 +511,16 @@
       "date": "2026-10-05",
       "level": 3.02,
       "variation": -2,
+      "minimum": {
+        "date": "2024-12-10",
+        "level": 0
+      },
+      "maximum": {
+        "date": "2026-01-24",
+        "level": 5.73
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086067",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "villa-florida",
@@ -297,8 +529,16 @@
       "date": "2025-02-28",
       "level": 0.32,
       "variation": 32,
+      "minimum": {
+        "date": "2023-02-14",
+        "level": -0.01
+      },
+      "maximum": {
+        "date": "2023-11-07",
+        "level": 5.66
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086262",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     },
     {
       "station": "estacion-arirai",
@@ -307,13 +547,21 @@
       "date": "2026-10-06",
       "level": 3.54,
       "variation": 1,
+      "minimum": {
+        "date": "2024-10-09",
+        "level": 2.06
+      },
+      "maximum": {
+        "date": "2023-07-29",
+        "level": 6.78
+      },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086029",
-      "fetched_at": "2026-10-06T13:04:46.497Z"
+      "fetched_at": "2026-10-06T13:35:29.079Z"
     }
   ],
   "state": {
-    "last_attempt": "2026-10-06T13:04:46.497Z",
-    "last_success": "2026-10-06T13:04:46.497Z",
+    "last_attempt": "2026-10-06T13:35:29.079Z",
+    "last_success": "2026-10-06T13:35:29.079Z",
     "error": null,
     "count": 31
   },
