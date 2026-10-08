@@ -16,7 +16,7 @@
         "level": 4.24
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082001",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "puerto-murtinho-brasil",
@@ -34,7 +34,7 @@
         "level": 9.75
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082002",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "caceres-brasil",
@@ -52,7 +52,7 @@
         "level": 5.47
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082003",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "isla-margarita",
@@ -70,7 +70,7 @@
         "level": 7.7
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086009",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "fuerte-olimpo",
@@ -88,7 +88,7 @@
         "level": 9.6
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086010",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "bahia-negra",
@@ -106,7 +106,7 @@
         "level": 6.95
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086033",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "vallemi",
@@ -124,7 +124,7 @@
         "level": 8.56
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086088",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "concepcion",
@@ -142,7 +142,7 @@
         "level": 8.66
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086134",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "rosario",
@@ -160,7 +160,7 @@
         "level": 8.03
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086183",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "puerto-antequera",
@@ -178,7 +178,7 @@
         "level": 6.02
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086184",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "villeta",
@@ -196,7 +196,7 @@
         "level": 8.94
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086211",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "asuncion",
@@ -214,7 +214,7 @@
         "level": 9.01
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086218",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "ita-enramada",
@@ -232,7 +232,7 @@
         "level": 5.8
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086219",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "humaita",
@@ -250,7 +250,7 @@
         "level": 7.74
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086252",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "alberdi",
@@ -268,7 +268,7 @@
         "level": 10.14
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086254",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "pilar",
@@ -286,7 +286,7 @@
         "level": 10.05
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086255",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "puerto-tigre",
@@ -304,7 +304,7 @@
         "level": 7.81
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086209",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "salto-del-guaira",
@@ -322,7 +322,7 @@
         "level": 10.03
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086210",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "ciudad-del-este",
@@ -340,7 +340,7 @@
         "level": 30.4
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086248",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "cerrito",
@@ -358,7 +358,7 @@
         "level": 6.7
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086253",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "ita-piru",
@@ -376,7 +376,7 @@
         "level": 9.94
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086257",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "paso-de-patria",
@@ -394,7 +394,7 @@
         "level": 9.83
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086258",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "ayolas",
@@ -412,7 +412,7 @@
         "level": 6.65
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086261",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "panchito-lopez",
@@ -430,7 +430,7 @@
         "level": 7.04
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086263",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "coratei",
@@ -448,7 +448,7 @@
         "level": 6.35
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086264",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "ita-cora",
@@ -466,7 +466,7 @@
         "level": 8.21
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086288",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "san-cosme-y-san-damian",
@@ -484,7 +484,7 @@
         "level": 10.35
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086295",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "encarnacion",
@@ -502,7 +502,7 @@
         "level": 12
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086297",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "pozo-hondo",
@@ -520,7 +520,7 @@
         "level": 5.73
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086067",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "villa-florida",
@@ -538,7 +538,7 @@
         "level": 5.66
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086262",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     },
     {
       "station": "estacion-arirai",
@@ -556,12 +556,12 @@
         "level": 6.78
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086029",
-      "fetched_at": "2026-10-07T23:10:45.751Z"
+      "fetched_at": "2026-10-08T02:44:13.823Z"
     }
   ],
   "state": {
-    "last_attempt": "2026-10-07T23:10:45.751Z",
-    "last_success": "2026-10-07T23:10:45.751Z",
+    "last_attempt": "2026-10-08T02:44:13.823Z",
+    "last_success": "2026-10-08T02:44:13.823Z",
     "error": null,
     "count": 31
   },
