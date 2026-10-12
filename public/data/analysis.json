@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:41:47.009Z",
+  "updated_at": "2026-10-12T23:03:23.842Z",
   "histories": {
     "puerto-ladario-brasil": {
       "station": "puerto-ladario-brasil",
@@ -7455,7 +7455,7 @@
         },
         {
           "date": "2026-10-11",
-          "level": 21.24
+          "level": 21.94
         }
       ],
       "history_checked_at": "2026-10-12T06:09:05.604Z",
@@ -10979,7 +10979,7 @@
         },
         {
           "date": "2026-10-11",
-          "level": 10
+          "level": 10.07
         }
       ],
       "history_checked_at": "2026-10-12T06:09:05.604Z",
