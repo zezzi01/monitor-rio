@@ -16,7 +16,7 @@
         "level": 4.24
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082001",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "puerto-murtinho-brasil",
@@ -34,7 +34,7 @@
         "level": 9.75
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082002",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "caceres-brasil",
@@ -52,15 +52,15 @@
         "level": 5.47
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000082003",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "isla-margarita",
       "name": "Isla Margarita",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "level": 2.9,
-      "variation": -2,
+      "variation": 0,
       "minimum": {
         "date": "2024-10-23",
         "level": 0.54
@@ -70,15 +70,15 @@
         "level": 7.7
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086009",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "fuerte-olimpo",
       "name": "Fuerte Olimpo",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 3.3,
-      "variation": 2,
+      "date": "2026-10-16",
+      "level": 3.31,
+      "variation": 1,
       "minimum": {
         "date": "1971-10-26",
         "level": -1.58
@@ -88,15 +88,15 @@
         "level": 9.6
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086010",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "bahia-negra",
       "name": "Bahía Negra",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 2.95,
-      "variation": 1,
+      "date": "2026-10-16",
+      "level": 2.97,
+      "variation": 2,
       "minimum": {
         "date": "1971-09-26",
         "level": -1.32
@@ -106,15 +106,15 @@
         "level": 6.95
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086033",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "vallemi",
       "name": "Vallemi",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 2.85,
-      "variation": 4,
+      "date": "2026-10-16",
+      "level": 2.95,
+      "variation": 10,
       "minimum": {
         "date": "1971-09-24",
         "level": 0.42
@@ -124,15 +124,15 @@
         "level": 8.56
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086088",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "concepcion",
       "name": "Concepción",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 2.65,
-      "variation": -1,
+      "date": "2026-10-16",
+      "level": 2.63,
+      "variation": -2,
       "minimum": {
         "date": "1968-01-07",
         "level": 0.34
@@ -142,15 +142,15 @@
         "level": 8.66
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086134",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "rosario",
       "name": "Rosario",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 3.04,
-      "variation": 12,
+      "date": "2026-10-16",
+      "level": 3.08,
+      "variation": 4,
       "minimum": {
         "date": "2024-10-30",
         "level": -0.62
@@ -160,15 +160,15 @@
         "level": 8.03
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086183",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "puerto-antequera",
       "name": "Puerto Antequera",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 2.74,
-      "variation": 7,
+      "date": "2026-10-16",
+      "level": 2.75,
+      "variation": 1,
       "minimum": {
         "date": "2024-10-31",
         "level": -0.49
@@ -178,15 +178,15 @@
         "level": 6.02
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086184",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "villeta",
       "name": "Villeta",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 2.81,
-      "variation": 18,
+      "date": "2026-10-16",
+      "level": 2.93,
+      "variation": 12,
       "minimum": {
         "date": "2024-11-01",
         "level": -1.21
@@ -196,15 +196,15 @@
         "level": 8.94
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086211",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "asuncion",
       "name": "Asunción",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 2.44,
-      "variation": 15,
+      "date": "2026-10-16",
+      "level": 2.56,
+      "variation": 12,
       "minimum": {
         "date": "2024-11-02",
         "level": -1.61
@@ -214,15 +214,15 @@
         "level": 9.01
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086218",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "ita-enramada",
       "name": "Ita Enramada",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 2.89,
-      "variation": 17,
+      "date": "2026-10-16",
+      "level": 3,
+      "variation": 11,
       "minimum": {
         "date": "2024-11-01",
         "level": -1.04
@@ -232,15 +232,15 @@
         "level": 5.8
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086219",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "humaita",
       "name": "Humaitá",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 4.8,
-      "variation": 23,
+      "date": "2026-10-16",
+      "level": 5.13,
+      "variation": 33,
       "minimum": {
         "date": "2021-10-02",
         "level": -0.25
@@ -250,15 +250,15 @@
         "level": 7.74
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086252",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "alberdi",
       "name": "Alberdi",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 4.05,
-      "variation": 10,
+      "date": "2026-10-16",
+      "level": 4.25,
+      "variation": 20,
       "minimum": {
         "date": "2024-11-08",
         "level": -0.77
@@ -268,15 +268,15 @@
         "level": 10.14
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086254",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "pilar",
       "name": "Pilar",
       "river": "Río Paraguay",
-      "date": "2026-10-15",
-      "level": 4.73,
-      "variation": 23,
+      "date": "2026-10-16",
+      "level": 4.99,
+      "variation": 26,
       "minimum": {
         "date": "1944-10-06",
         "level": -0.49
@@ -286,15 +286,15 @@
         "level": 10.05
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086255",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "puerto-tigre",
       "name": "Puerto Tigre",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 7.11,
-      "variation": -2,
+      "date": "2026-10-16",
+      "level": 7.04,
+      "variation": -7,
       "minimum": {
         "date": "2026-04-09",
         "level": 2.01
@@ -304,15 +304,15 @@
         "level": 7.81
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086209",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "salto-del-guaira",
       "name": "Salto del Guairá",
       "river": "Río Paraná",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "level": 7.42,
-      "variation": 4,
+      "variation": 0,
       "minimum": {
         "date": "2020-12-13",
         "level": 3.16
@@ -322,7 +322,7 @@
         "level": 10.03
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086210",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "ciudad-del-este",
@@ -340,15 +340,15 @@
         "level": 32.57
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086248",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "cerrito",
       "name": "Cerrito",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 5.53,
-      "variation": 63,
+      "date": "2026-10-16",
+      "level": 6.1,
+      "variation": 57,
       "minimum": {
         "date": "2021-12-29",
         "level": -0.4
@@ -358,15 +358,15 @@
         "level": 6.7
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086253",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "ita-piru",
       "name": "Ita Pirú",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 7.08,
-      "variation": 28,
+      "date": "2026-10-16",
+      "level": 7.54,
+      "variation": 46,
       "minimum": {
         "date": "2022-02-04",
         "level": 0.02
@@ -376,15 +376,15 @@
         "level": 9.94
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086257",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "paso-de-patria",
       "name": "Paso de Patria",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 5.76,
-      "variation": 20,
+      "date": "2026-10-16",
+      "level": 6.46,
+      "variation": 70,
       "minimum": {
         "date": "2022-01-13",
         "level": 0.01
@@ -394,15 +394,15 @@
         "level": 9.83
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086258",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "ayolas",
       "name": "Ayolas",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 6.19,
-      "variation": 40,
+      "date": "2026-10-16",
+      "level": 6.32,
+      "variation": 13,
       "minimum": {
         "date": "2007-09-13",
         "level": 0
@@ -412,15 +412,15 @@
         "level": 6.65
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086261",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "panchito-lopez",
       "name": "Panchito López",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 6.36,
-      "variation": 68,
+      "date": "2026-10-16",
+      "level": 6.78,
+      "variation": 42,
       "minimum": {
         "date": "2020-10-23",
         "level": 0.1
@@ -430,15 +430,15 @@
         "level": 7.04
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086263",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "coratei",
       "name": "Coratei",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 5.88,
-      "variation": 48,
+      "date": "2026-10-16",
+      "level": 6.14,
+      "variation": 26,
       "minimum": {
         "date": "2022-02-22",
         "level": -0.29
@@ -448,15 +448,15 @@
         "level": 6.35
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086264",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "ita-cora",
       "name": "Ita Corá",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 6.7,
-      "variation": 10,
+      "date": "2026-10-16",
+      "level": 7.25,
+      "variation": 55,
       "minimum": {
         "date": "2021-05-24",
         "level": 0.6
@@ -466,15 +466,15 @@
         "level": 8.21
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086288",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "san-cosme-y-san-damian",
       "name": "San Cosme y San Damían",
       "river": "Río Paraná",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "level": 9.95,
-      "variation": 3,
+      "variation": 0,
       "minimum": {
         "date": "2025-03-28",
         "level": 0.75
@@ -484,15 +484,15 @@
         "level": 10.35
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086295",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "encarnacion",
       "name": "Encarnación",
       "river": "Río Paraná",
-      "date": "2026-10-15",
-      "level": 10.24,
-      "variation": 1,
+      "date": "2026-10-16",
+      "level": 10.34,
+      "variation": 10,
       "minimum": {
         "date": "2026-04-11",
         "level": 3.1
@@ -502,15 +502,15 @@
         "level": 12
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086297",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "pozo-hondo",
       "name": "Pozo Hondo",
       "river": "Río Pilcomayo",
-      "date": "2026-10-15",
-      "level": 3.04,
-      "variation": -6,
+      "date": "2026-10-16",
+      "level": 3.1,
+      "variation": 6,
       "minimum": {
         "date": "2024-12-10",
         "level": 0
@@ -520,7 +520,7 @@
         "level": 5.73
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086067",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "villa-florida",
@@ -538,14 +538,14 @@
         "level": 5.66
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086262",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     },
     {
       "station": "estacion-arirai",
       "name": "Estación Arirai",
       "river": "Río Negro",
-      "date": "2026-10-15",
-      "level": 3.67,
+      "date": "2026-10-16",
+      "level": 3.69,
       "variation": 2,
       "minimum": {
         "date": "2024-10-09",
@@ -556,12 +556,12 @@
         "level": 6.78
       },
       "source": "https://meteorologia.gov.py/nivel-rio/vermas_convencional.php?code=2000086029",
-      "fetched_at": "2026-10-16T07:18:52.912Z"
+      "fetched_at": "2026-10-16T13:20:13.608Z"
     }
   ],
   "state": {
-    "last_attempt": "2026-10-16T07:18:52.912Z",
-    "last_success": "2026-10-16T07:18:52.912Z",
+    "last_attempt": "2026-10-16T13:20:13.608Z",
+    "last_success": "2026-10-16T13:20:13.608Z",
     "error": null,
     "count": 31
   },
