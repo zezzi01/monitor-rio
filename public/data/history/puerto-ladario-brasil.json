@@ -403,10 +403,14 @@
       "level": 1.26
     },
     {
+      "date": "2026-10-16",
+      "level": 1.28
+    },
+    {
       "date": "2026-10-17",
       "level": 1.28
     }
   ],
-  "history_checked_at": "2026-10-17T00:34:26.691Z",
+  "history_checked_at": "2026-10-18T01:10:36.458Z",
   "warning": null
 }
