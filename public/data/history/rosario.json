@@ -431,6 +431,10 @@
       "level": 3.2
     },
     {
+      "date": "2026-10-24",
+      "level": 3.22
+    },
+    {
       "date": "2026-10-25",
       "level": 3.28
     },
@@ -439,6 +443,6 @@
       "level": 3.29
     }
   ],
-  "history_checked_at": "2026-10-26T01:17:59.689Z",
+  "history_checked_at": "2026-10-27T00:33:29.169Z",
   "warning": null
 }

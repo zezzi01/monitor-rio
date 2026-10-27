@@ -435,10 +435,14 @@
       "level": 9.95
     },
     {
+      "date": "2026-10-25",
+      "level": 10
+    },
+    {
       "date": "2026-10-26",
       "level": 9.98
     }
   ],
-  "history_checked_at": "2026-10-26T01:17:59.689Z",
+  "history_checked_at": "2026-10-27T00:33:29.169Z",
   "warning": null
 }
