@@ -560,9 +560,9 @@
     }
   ],
   "state": {
-    "last_attempt": "2026-11-19T02:38:46.951Z",
+    "last_attempt": "2026-11-19T11:51:52.791Z",
     "last_success": "2026-11-19T02:38:46.951Z",
-    "error": null,
+    "error": "No se pudo actualizar desde la DMH. Se conserva la última consulta válida.",
     "count": 31
   },
   "history_warnings": []
