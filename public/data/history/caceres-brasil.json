@@ -543,10 +543,14 @@
       "level": 1.41
     },
     {
+      "date": "2026-11-20",
+      "level": 1.56
+    },
+    {
       "date": "2026-11-21",
       "level": 1.71
     }
   ],
-  "history_checked_at": "2026-11-21T02:27:22.099Z",
+  "history_checked_at": "2026-11-22T00:25:23.387Z",
   "warning": null
 }
