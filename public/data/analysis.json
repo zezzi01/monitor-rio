@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:31:39.050Z",
+  "updated_at": "2026-11-23T03:46:12.009Z",
   "histories": {
     "puerto-ladario-brasil": {
       "station": "puerto-ladario-brasil",
@@ -558,7 +558,7 @@
           "level": 0.87
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "puerto-murtinho-brasil": {
@@ -1118,7 +1118,7 @@
           "level": 2.95
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "caceres-brasil": {
@@ -1678,7 +1678,7 @@
           "level": 1.84
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "isla-margarita": {
@@ -2234,7 +2234,7 @@
           "level": 2.41
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "fuerte-olimpo": {
@@ -2790,7 +2790,7 @@
           "level": 3.02
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "bahia-negra": {
@@ -3346,7 +3346,7 @@
           "level": 2.59
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "vallemi": {
@@ -3898,7 +3898,7 @@
           "level": 2.55
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "concepcion": {
@@ -4454,7 +4454,7 @@
           "level": 2.4
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "rosario": {
@@ -5010,7 +5010,7 @@
           "level": 2.24
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "puerto-antequera": {
@@ -5546,7 +5546,7 @@
           "level": 2
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "villeta": {
@@ -6102,7 +6102,7 @@
           "level": 2.41
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "asuncion": {
@@ -6658,7 +6658,7 @@
           "level": 1.89
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "ita-enramada": {
@@ -7214,7 +7214,7 @@
           "level": 2.38
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "humaita": {
@@ -7770,7 +7770,7 @@
           "level": 5.16
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "alberdi": {
@@ -8326,7 +8326,7 @@
           "level": 4.61
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "pilar": {
@@ -8882,7 +8882,7 @@
           "level": 5.3
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "puerto-tigre": {
@@ -9438,7 +9438,7 @@
           "level": 6.79
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "salto-del-guaira": {
@@ -9994,7 +9994,7 @@
           "level": 6.92
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "ciudad-del-este": {
@@ -10546,7 +10546,7 @@
           "level": 21.21
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "cerrito": {
@@ -11102,7 +11102,7 @@
           "level": 4.15
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "ita-piru": {
@@ -11658,7 +11658,7 @@
           "level": 6.96
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "paso-de-patria": {
@@ -12214,7 +12214,7 @@
           "level": 5.81
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "ayolas": {
@@ -12770,7 +12770,7 @@
           "level": 4.18
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "panchito-lopez": {
@@ -13326,7 +13326,7 @@
           "level": 4.64
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "coratei": {
@@ -13882,7 +13882,7 @@
           "level": 3.95
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "ita-cora": {
@@ -14438,7 +14438,7 @@
           "level": 5.96
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "san-cosme-y-san-damian": {
@@ -14994,7 +14994,7 @@
           "level": 9.85
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "encarnacion": {
@@ -15550,7 +15550,7 @@
           "level": 10.2
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "pozo-hondo": {
@@ -16078,7 +16078,7 @@
           "level": 3.4
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "villa-florida": {
@@ -16446,7 +16446,7 @@
           "level": 0.32
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     },
     "estacion-arirai": {
@@ -17002,7 +17002,7 @@
           "level": 3.43
         }
       ],
-      "history_checked_at": "2026-11-22T00:25:23.387Z",
+      "history_checked_at": "2026-11-23T03:46:12.009Z",
       "warning": null
     }
   }
