@@ -563,10 +563,14 @@
       "level": 3.44
     },
     {
+      "date": "2026-11-25",
+      "level": 4.34
+    },
+    {
       "date": "2026-11-26",
       "level": 4.76
     }
   ],
-  "history_checked_at": "2026-11-27T05:07:43.468Z",
+  "history_checked_at": "2026-11-28T08:01:28.580Z",
   "warning": null
 }
